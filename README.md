@@ -6,6 +6,7 @@ First go through tensorflow object detection pi tutorial. I highly recommend wat
 <br>
 
 Dataset will be available soon on https://pythonocean.com
+<br>
 Demo
 ![2](https://user-images.githubusercontent.com/86795519/128889144-fe33a0f6-eb40-4371-b1f3-4d78bfedd509.PNG)
 
